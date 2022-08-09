@@ -1,0 +1,283 @@
+D:\Dev\Visual Studio\Repos\WPF Layout Test\obj\Debug\net6.0-windows\SVGRecolorTool.csproj.AssemblyReference.cache
+D:\Dev\Visual Studio\Repos\WPF Layout Test\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Dev\Visual Studio\Repos\WPF Layout Test\obj\Debug\net6.0-windows\App.g.cs
+D:\Dev\Visual Studio\Repos\WPF Layout Test\obj\Debug\net6.0-windows\SVGRecolorTool_MarkupCompile.cache
+D:\Dev\Visual Studio\Repos\WPF Layout Test\obj\Debug\net6.0-windows\SVGRecolorTool_MarkupCompile.lref
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\bin\Debug\net6.0-windows\SVGRecolorTool.exe
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\bin\Debug\net6.0-windows\rsrc\xmlSyntax.xshd
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\bin\Debug\net6.0-windows\SVGRecolorTool.deps.json
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\bin\Debug\net6.0-windows\SVGRecolorTool.runtimeconfig.json
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\bin\Debug\net6.0-windows\SVGRecolorTool.dll
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\bin\Debug\net6.0-windows\SVGRecolorTool.pdb
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\bin\Debug\net6.0-windows\ICSharpCode.AvalonEdit.dll
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\bin\Debug\net6.0-windows\ExCSS.dll
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\bin\Debug\net6.0-windows\Fizzler.dll
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\bin\Debug\net6.0-windows\runtime.osx.10.10-x64.CoreCompat.System.Drawing.dll
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\bin\Debug\net6.0-windows\Svg.dll
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libcairo.2.dylib
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libfontconfig.1.dylib
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libfreetype.6.dylib
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libgdiplus-lighthouse.dylib
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libgdiplus.dylib
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libgif.7.dylib
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libglib-2.0.0.dylib
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libintl.8.dylib
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libjpeg.9.dylib
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libpcre.1.dylib
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libpixman-1.0.dylib
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libpng16.16.dylib
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libtiff.5.dylib
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.csproj.AssemblyReference.cache
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\obj\Debug\net6.0-windows\App.g.cs
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool_MarkupCompile.cache
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool_MarkupCompile.lref
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.g.resources
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.Properties.Resources.resources
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.csproj.GenerateResource.cache
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.AssemblyInfoInputs.cache
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.AssemblyInfo.cs
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.csproj.CoreCompileInputs.cache
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.csproj.CopyComplete
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.dll
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\obj\Debug\net6.0-windows\refint\SVGRecolorTool.dll
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.pdb
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.genruntimeconfig.cache
+D:\Dev\Visual Studio\Repos\SVGRecolorTool\obj\Debug\net6.0-windows\ref\SVGRecolorTool.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\bin\Debug\net6.0-windows\SVGRecolorTool.exe
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\bin\Debug\net6.0-windows\rsrc\xmlSyntax.xshd
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\bin\Debug\net6.0-windows\SVGRecolorTool.deps.json
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\bin\Debug\net6.0-windows\SVGRecolorTool.runtimeconfig.json
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\bin\Debug\net6.0-windows\SVGRecolorTool.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\bin\Debug\net6.0-windows\SVGRecolorTool.pdb
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\bin\Debug\net6.0-windows\ICSharpCode.AvalonEdit.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\bin\Debug\net6.0-windows\ExCSS.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\bin\Debug\net6.0-windows\Fizzler.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\bin\Debug\net6.0-windows\runtime.osx.10.10-x64.CoreCompat.System.Drawing.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\bin\Debug\net6.0-windows\Svg.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libcairo.2.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libfontconfig.1.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libfreetype.6.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libgdiplus-lighthouse.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libgdiplus.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libgif.7.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libglib-2.0.0.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libintl.8.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libjpeg.9.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libpcre.1.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libpixman-1.0.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libpng16.16.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libtiff.5.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.csproj.AssemblyReference.cache
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\obj\Debug\net6.0-windows\App.g.cs
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool_MarkupCompile.cache
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool_MarkupCompile.lref
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.g.resources
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.Properties.Resources.resources
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.csproj.GenerateResource.cache
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.AssemblyInfoInputs.cache
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.AssemblyInfo.cs
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.csproj.CoreCompileInputs.cache
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.csproj.CopyComplete
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\obj\Debug\net6.0-windows\refint\SVGRecolorTool.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.pdb
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.genruntimeconfig.cache
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVGRecolorTool\obj\Debug\net6.0-windows\ref\SVGRecolorTool.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\bin\Debug\net6.0-windows\SVGRecolorTool.exe
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\bin\Debug\net6.0-windows\rsrc\xmlSyntax.xshd
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\bin\Debug\net6.0-windows\SVGRecolorTool.deps.json
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\bin\Debug\net6.0-windows\SVGRecolorTool.runtimeconfig.json
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\bin\Debug\net6.0-windows\SVGRecolorTool.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\bin\Debug\net6.0-windows\SVGRecolorTool.pdb
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\bin\Debug\net6.0-windows\ICSharpCode.AvalonEdit.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\bin\Debug\net6.0-windows\ExCSS.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\bin\Debug\net6.0-windows\Fizzler.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\bin\Debug\net6.0-windows\runtime.osx.10.10-x64.CoreCompat.System.Drawing.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\bin\Debug\net6.0-windows\Svg.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\bin\Debug\net6.0-windows\Syncfusion.Edit.WPF.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\bin\Debug\net6.0-windows\Syncfusion.GridCommon.WPF.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\bin\Debug\net6.0-windows\Syncfusion.Licensing.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\bin\Debug\net6.0-windows\Syncfusion.Shared.WPF.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\bin\Debug\net6.0-windows\Syncfusion.Tools.WPF.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libcairo.2.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libfontconfig.1.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libfreetype.6.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libgdiplus-lighthouse.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libgdiplus.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libgif.7.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libglib-2.0.0.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libintl.8.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libjpeg.9.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libpcre.1.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libpixman-1.0.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libpng16.16.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libtiff.5.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.csproj.AssemblyReference.cache
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\obj\Debug\net6.0-windows\App.g.cs
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool_MarkupCompile.cache
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool_MarkupCompile.lref
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.g.resources
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.Properties.Resources.resources
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.csproj.GenerateResource.cache
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.AssemblyInfoInputs.cache
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.AssemblyInfo.cs
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.csproj.CoreCompileInputs.cache
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.csproj.CopyComplete
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\obj\Debug\net6.0-windows\refint\SVGRecolorTool.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.pdb
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\obj\Debug\net6.0-windows\SVGRecolorTool.genruntimeconfig.cache
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool\obj\Debug\net6.0-windows\ref\SVGRecolorTool.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\bin\Debug\net6.0-windows\SVGRecolorTool.exe
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\bin\Debug\net6.0-windows\rsrc\xmlSyntax.xshd
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\bin\Debug\net6.0-windows\SVGRecolorTool.deps.json
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\bin\Debug\net6.0-windows\SVGRecolorTool.runtimeconfig.json
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\bin\Debug\net6.0-windows\SVGRecolorTool.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\bin\Debug\net6.0-windows\SVGRecolorTool.pdb
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\bin\Debug\net6.0-windows\ICSharpCode.AvalonEdit.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\bin\Debug\net6.0-windows\ExCSS.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\bin\Debug\net6.0-windows\Fizzler.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\bin\Debug\net6.0-windows\runtime.osx.10.10-x64.CoreCompat.System.Drawing.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\bin\Debug\net6.0-windows\Svg.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\bin\Debug\net6.0-windows\Syncfusion.Edit.WPF.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\bin\Debug\net6.0-windows\Syncfusion.GridCommon.WPF.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\bin\Debug\net6.0-windows\Syncfusion.Licensing.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\bin\Debug\net6.0-windows\Syncfusion.Shared.WPF.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\bin\Debug\net6.0-windows\Syncfusion.Tools.WPF.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libcairo.2.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libfontconfig.1.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libfreetype.6.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libgdiplus-lighthouse.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libgdiplus.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libgif.7.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libglib-2.0.0.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libintl.8.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libjpeg.9.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libpcre.1.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libpixman-1.0.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libpng16.16.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libtiff.5.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\obj\Debug\net6.0-windows\SVGRecolorTool.csproj.AssemblyReference.cache
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\obj\Debug\net6.0-windows\App.g.cs
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\obj\Debug\net6.0-windows\SVGRecolorTool_MarkupCompile.cache
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\obj\Debug\net6.0-windows\SVGRecolorTool_MarkupCompile.lref
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\obj\Debug\net6.0-windows\SVGRecolorTool.g.resources
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\obj\Debug\net6.0-windows\SVGRecolorTool.Properties.Resources.resources
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\obj\Debug\net6.0-windows\SVGRecolorTool.csproj.GenerateResource.cache
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\obj\Debug\net6.0-windows\SVGRecolorTool.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\obj\Debug\net6.0-windows\SVGRecolorTool.AssemblyInfoInputs.cache
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\obj\Debug\net6.0-windows\SVGRecolorTool.AssemblyInfo.cs
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\obj\Debug\net6.0-windows\SVGRecolorTool.csproj.CoreCompileInputs.cache
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\obj\Debug\net6.0-windows\SVGRecolorTool.csproj.CopyComplete
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\obj\Debug\net6.0-windows\SVGRecolorTool.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\obj\Debug\net6.0-windows\refint\SVGRecolorTool.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\obj\Debug\net6.0-windows\SVGRecolorTool.pdb
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\obj\Debug\net6.0-windows\SVGRecolorTool.genruntimeconfig.cache
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test2\obj\Debug\net6.0-windows\ref\SVGRecolorTool.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\bin\Debug\net6.0-windows\SVGRecolorTool.exe
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\bin\Debug\net6.0-windows\rsrc\xmlSyntax.xshd
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\bin\Debug\net6.0-windows\SVGRecolorTool.deps.json
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\bin\Debug\net6.0-windows\SVGRecolorTool.runtimeconfig.json
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\bin\Debug\net6.0-windows\SVGRecolorTool.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\bin\Debug\net6.0-windows\SVGRecolorTool.pdb
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\bin\Debug\net6.0-windows\ICSharpCode.AvalonEdit.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\bin\Debug\net6.0-windows\ExCSS.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\bin\Debug\net6.0-windows\Fizzler.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\bin\Debug\net6.0-windows\runtime.osx.10.10-x64.CoreCompat.System.Drawing.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\bin\Debug\net6.0-windows\Svg.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\bin\Debug\net6.0-windows\Syncfusion.Edit.WPF.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\bin\Debug\net6.0-windows\Syncfusion.GridCommon.WPF.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\bin\Debug\net6.0-windows\Syncfusion.Licensing.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\bin\Debug\net6.0-windows\Syncfusion.Shared.WPF.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\bin\Debug\net6.0-windows\Syncfusion.Tools.WPF.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libcairo.2.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libfontconfig.1.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libfreetype.6.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libgdiplus-lighthouse.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libgdiplus.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libgif.7.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libglib-2.0.0.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libintl.8.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libjpeg.9.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libpcre.1.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libpixman-1.0.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libpng16.16.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libtiff.5.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\obj\Debug\net6.0-windows\SVGRecolorTool.csproj.AssemblyReference.cache
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\obj\Debug\net6.0-windows\App.g.cs
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\obj\Debug\net6.0-windows\SVGRecolorTool_MarkupCompile.cache
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\obj\Debug\net6.0-windows\SVGRecolorTool_MarkupCompile.lref
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\obj\Debug\net6.0-windows\SVGRecolorTool.g.resources
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\obj\Debug\net6.0-windows\SVGRecolorTool.Properties.Resources.resources
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\obj\Debug\net6.0-windows\SVGRecolorTool.csproj.GenerateResource.cache
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\obj\Debug\net6.0-windows\SVGRecolorTool.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\obj\Debug\net6.0-windows\SVGRecolorTool.AssemblyInfoInputs.cache
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\obj\Debug\net6.0-windows\SVGRecolorTool.AssemblyInfo.cs
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\obj\Debug\net6.0-windows\SVGRecolorTool.csproj.CoreCompileInputs.cache
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\obj\Debug\net6.0-windows\SVGRecolorTool.csproj.CopyComplete
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\obj\Debug\net6.0-windows\SVGRecolorTool.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\obj\Debug\net6.0-windows\refint\SVGRecolorTool.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\obj\Debug\net6.0-windows\SVGRecolorTool.pdb
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\obj\Debug\net6.0-windows\SVGRecolorTool.genruntimeconfig.cache
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG RecolorTool Test 1\obj\Debug\net6.0-windows\ref\SVGRecolorTool.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\bin\Debug\net6.0-windows\SVGRecolorTool.exe
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\bin\Debug\net6.0-windows\rsrc\xmlSyntax.xshd
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\bin\Debug\net6.0-windows\SVGRecolorTool.deps.json
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\bin\Debug\net6.0-windows\SVGRecolorTool.runtimeconfig.json
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\bin\Debug\net6.0-windows\SVGRecolorTool.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\bin\Debug\net6.0-windows\SVGRecolorTool.pdb
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\bin\Debug\net6.0-windows\ICSharpCode.AvalonEdit.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\bin\Debug\net6.0-windows\ExCSS.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\bin\Debug\net6.0-windows\Fizzler.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\bin\Debug\net6.0-windows\runtime.osx.10.10-x64.CoreCompat.System.Drawing.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\bin\Debug\net6.0-windows\Svg.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\bin\Debug\net6.0-windows\Syncfusion.Edit.WPF.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\bin\Debug\net6.0-windows\Syncfusion.GridCommon.WPF.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\bin\Debug\net6.0-windows\Syncfusion.Licensing.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\bin\Debug\net6.0-windows\Syncfusion.Shared.WPF.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\bin\Debug\net6.0-windows\Syncfusion.Tools.WPF.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libcairo.2.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libfontconfig.1.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libfreetype.6.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libgdiplus-lighthouse.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libgdiplus.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libgif.7.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libglib-2.0.0.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libintl.8.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libjpeg.9.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libpcre.1.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libpixman-1.0.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libpng16.16.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libtiff.5.dylib
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\obj\Debug\net6.0-windows\SVGRecolorTool.csproj.AssemblyReference.cache
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\obj\Debug\net6.0-windows\App.g.cs
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\obj\Debug\net6.0-windows\SVGRecolorTool_MarkupCompile.cache
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\obj\Debug\net6.0-windows\SVGRecolorTool_MarkupCompile.lref
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\obj\Debug\net6.0-windows\SVGRecolorTool.g.resources
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\obj\Debug\net6.0-windows\SVGRecolorTool.Properties.Resources.resources
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\obj\Debug\net6.0-windows\SVGRecolorTool.csproj.GenerateResource.cache
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\obj\Debug\net6.0-windows\SVGRecolorTool.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\obj\Debug\net6.0-windows\SVGRecolorTool.AssemblyInfoInputs.cache
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\obj\Debug\net6.0-windows\SVGRecolorTool.AssemblyInfo.cs
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\obj\Debug\net6.0-windows\SVGRecolorTool.csproj.CoreCompileInputs.cache
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\obj\Debug\net6.0-windows\SVGRecolorTool.csproj.CopyComplete
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\obj\Debug\net6.0-windows\SVGRecolorTool.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\obj\Debug\net6.0-windows\refint\SVGRecolorTool.dll
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\obj\Debug\net6.0-windows\SVGRecolorTool.pdb
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\obj\Debug\net6.0-windows\SVGRecolorTool.genruntimeconfig.cache
+D:\Dev\Visual Studio\Repos\VSYS\VSYS SVG Recolor Tool\obj\Debug\net6.0-windows\ref\SVGRecolorTool.dll

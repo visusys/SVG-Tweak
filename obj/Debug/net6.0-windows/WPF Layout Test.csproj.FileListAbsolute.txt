@@ -1,0 +1,43 @@
+D:\Dev\Visual Studio\Repos\WPF Layout Test\bin\Debug\net6.0-windows\WPF Layout Test.exe
+D:\Dev\Visual Studio\Repos\WPF Layout Test\bin\Debug\net6.0-windows\WPF Layout Test.deps.json
+D:\Dev\Visual Studio\Repos\WPF Layout Test\bin\Debug\net6.0-windows\WPF Layout Test.runtimeconfig.json
+D:\Dev\Visual Studio\Repos\WPF Layout Test\bin\Debug\net6.0-windows\WPF Layout Test.dll
+D:\Dev\Visual Studio\Repos\WPF Layout Test\bin\Debug\net6.0-windows\WPF Layout Test.pdb
+D:\Dev\Visual Studio\Repos\WPF Layout Test\obj\Debug\net6.0-windows\WPF Layout Test.csproj.AssemblyReference.cache
+D:\Dev\Visual Studio\Repos\WPF Layout Test\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Dev\Visual Studio\Repos\WPF Layout Test\obj\Debug\net6.0-windows\App.g.cs
+D:\Dev\Visual Studio\Repos\WPF Layout Test\obj\Debug\net6.0-windows\WPF Layout Test_MarkupCompile.cache
+D:\Dev\Visual Studio\Repos\WPF Layout Test\obj\Debug\net6.0-windows\WPF Layout Test_MarkupCompile.lref
+D:\Dev\Visual Studio\Repos\WPF Layout Test\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Dev\Visual Studio\Repos\WPF Layout Test\obj\Debug\net6.0-windows\WPF Layout Test.g.resources
+D:\Dev\Visual Studio\Repos\WPF Layout Test\obj\Debug\net6.0-windows\WPF Layout Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Visual Studio\Repos\WPF Layout Test\obj\Debug\net6.0-windows\WPF Layout Test.AssemblyInfoInputs.cache
+D:\Dev\Visual Studio\Repos\WPF Layout Test\obj\Debug\net6.0-windows\WPF Layout Test.AssemblyInfo.cs
+D:\Dev\Visual Studio\Repos\WPF Layout Test\obj\Debug\net6.0-windows\WPF Layout Test.csproj.CoreCompileInputs.cache
+D:\Dev\Visual Studio\Repos\WPF Layout Test\obj\Debug\net6.0-windows\WPF Layout Test.dll
+D:\Dev\Visual Studio\Repos\WPF Layout Test\obj\Debug\net6.0-windows\refint\WPF Layout Test.dll
+D:\Dev\Visual Studio\Repos\WPF Layout Test\obj\Debug\net6.0-windows\WPF Layout Test.pdb
+D:\Dev\Visual Studio\Repos\WPF Layout Test\obj\Debug\net6.0-windows\WPF Layout Test.genruntimeconfig.cache
+D:\Dev\Visual Studio\Repos\WPF Layout Test\obj\Debug\net6.0-windows\ref\WPF Layout Test.dll
+D:\Dev\Visual Studio\Repos\WPF Layout Test\bin\Debug\net6.0-windows\ICSharpCode.AvalonEdit.dll
+D:\Dev\Visual Studio\Repos\WPF Layout Test\bin\Debug\net6.0-windows\ExCSS.dll
+D:\Dev\Visual Studio\Repos\WPF Layout Test\bin\Debug\net6.0-windows\Fizzler.dll
+D:\Dev\Visual Studio\Repos\WPF Layout Test\bin\Debug\net6.0-windows\runtime.osx.10.10-x64.CoreCompat.System.Drawing.dll
+D:\Dev\Visual Studio\Repos\WPF Layout Test\bin\Debug\net6.0-windows\Svg.dll
+D:\Dev\Visual Studio\Repos\WPF Layout Test\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libcairo.2.dylib
+D:\Dev\Visual Studio\Repos\WPF Layout Test\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libfontconfig.1.dylib
+D:\Dev\Visual Studio\Repos\WPF Layout Test\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libfreetype.6.dylib
+D:\Dev\Visual Studio\Repos\WPF Layout Test\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libgdiplus-lighthouse.dylib
+D:\Dev\Visual Studio\Repos\WPF Layout Test\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libgdiplus.dylib
+D:\Dev\Visual Studio\Repos\WPF Layout Test\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libgif.7.dylib
+D:\Dev\Visual Studio\Repos\WPF Layout Test\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libglib-2.0.0.dylib
+D:\Dev\Visual Studio\Repos\WPF Layout Test\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libintl.8.dylib
+D:\Dev\Visual Studio\Repos\WPF Layout Test\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libjpeg.9.dylib
+D:\Dev\Visual Studio\Repos\WPF Layout Test\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libpcre.1.dylib
+D:\Dev\Visual Studio\Repos\WPF Layout Test\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libpixman-1.0.dylib
+D:\Dev\Visual Studio\Repos\WPF Layout Test\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libpng16.16.dylib
+D:\Dev\Visual Studio\Repos\WPF Layout Test\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libtiff.5.dylib
+D:\Dev\Visual Studio\Repos\WPF Layout Test\obj\Debug\net6.0-windows\WPF Layout Test.csproj.CopyComplete
+D:\Dev\Visual Studio\Repos\WPF Layout Test\obj\Debug\net6.0-windows\WPF_Layout_Test.Properties.Resources.resources
+D:\Dev\Visual Studio\Repos\WPF Layout Test\obj\Debug\net6.0-windows\WPF Layout Test.csproj.GenerateResource.cache
+D:\Dev\Visual Studio\Repos\WPF Layout Test\bin\Debug\net6.0-windows\rsrc\xmlSyntax.xshd
