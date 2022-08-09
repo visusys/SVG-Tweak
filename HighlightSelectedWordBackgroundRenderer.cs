@@ -67,7 +67,6 @@ namespace SVGRecolorTool {
 
         public TextSegmentCollection<SearchResult> CurrentResults {
             get { return currentResults; }
-            set { currentResults = value; }
         }
 
         public Brush Background { get; set; }

@@ -69,7 +69,7 @@ namespace SVGRecolorTool
 
         private void ValidateSelection(object sender, EventArgs e) {
 
-            var results = new TextSegmentCollection<SearchResult>();
+            _renderer.CurrentResults.Clear();
 
             if(txtSvgSource.SelectedText.Length > 2) {
                 string pattern = @"\b" + txtSvgSource.SelectedText + @"\b";
@@ -78,20 +78,17 @@ namespace SVGRecolorTool
 
                 if (matchedSelections.Count > 1) {
                     foreach (Match result in matchedSelections) {
-                        results.Add(new SearchResult(result));
+                        _renderer.CurrentResults.Add(new SearchResult(result));
                     }
                 } else {
-                    results.Clear();
+                    _renderer.CurrentResults.Clear();
                 }
-                _renderer.CurrentResults = results;
 
             } else {
-                results.Clear();
-                _renderer.CurrentResults = results;
+                _renderer.CurrentResults.Clear();
             }
 
             txtSvgSource.TextArea.TextView.InvalidateLayer(KnownLayer.Selection);
-
         }
 
         private void btnBrowse_Click(object sender, EventArgs e) {
